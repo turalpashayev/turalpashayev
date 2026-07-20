@@ -4,7 +4,7 @@
 
 I build and tune detections across macOS, Windows, and Linux endpoints and SaaS surfaces, drive MITRE ATT&CK coverage-gap analysis, and apply LLMs and agentic systems to automate alert triage and investigation.
 
-📍 Sunnyvale, CA · 🔗 [LinkedIn](https://www.linkedin.com/in/turalpasha)
+📍 Sunnyvale, CA
 
 ## 🔭 What I work on
 
